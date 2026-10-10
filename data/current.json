@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-10",
+  "generated": "2026-10-10T13:12:40+02:00",
+  "stations": [
+    {
+      "code": "bp",
+      "name": "Budapest",
+      "water": "Duna",
+      "level": 1,
+      "change": 1,
+      "date": "2026-10-10",
+      "historical": {
+        "min": 1,
+        "max": 473,
+        "median": 195,
+        "mean": 203,
+        "count": 77
+      }
+    },
+    {
+      "code": "nm",
+      "name": "Nagymaros",
+      "water": "Duna",
+      "level": -97,
+      "change": 4,
+      "date": "2026-10-10",
+      "historical": {
+        "min": -97,
+        "max": 332,
+        "median": 93,
+        "mean": 105,
+        "count": 77
+      }
+    },
+    {
+      "code": "mo",
+      "name": "Mohács",
+      "water": "Duna",
+      "level": -35,
+      "change": -1,
+      "date": "2026-10-10",
+      "historical": {
+        "min": -35,
+        "max": 641,
+        "median": 255,
+        "mean": 274,
+        "count": 77
+      }
+    },
+    {
+      "code": "vn",
+      "name": "Vásárosnamény",
+      "water": "Tisza",
+      "level": -245,
+      "change": 0,
+      "date": "2026-10-10",
+      "historical": {
+        "min": -245,
+        "max": 148,
+        "median": -124,
+        "mean": -113,
+        "count": 77
+      }
+    },
+    {
+      "code": "so",
+      "name": "Szolnok",
+      "water": "Tisza",
+      "level": -340,
+      "change": 0,
+      "date": "2026-10-10",
+      "historical": {
+        "min": -340,
+        "max": 123,
+        "median": -128,
+        "mean": -123,
+        "count": 27
+      }
+    },
+    {
+      "code": "se",
+      "name": "Szeged",
+      "water": "Tisza",
+      "level": 60,
+      "change": 0,
+      "date": "2026-10-10",
+      "historical": {
+        "min": -199,
+        "max": 414,
+        "median": 93,
+        "mean": 77,
+        "count": 77
+      }
+    },
+    {
+      "code": "si",
+      "name": "Siófok",
+      "water": "Balaton",
+      "level": 31,
+      "change": 1,
+      "date": "2026-10-10",
+      "historical": {
+        "min": 31,
+        "max": 128,
+        "median": 76,
+        "mean": 78,
+        "count": 53
+      }
+    },
+    {
+      "code": "ba",
+      "name": "Balaton átlag",
+      "water": "Balaton",
+      "level": 29,
+      "change": 0,
+      "date": "2026-10-10",
+      "historical": {
+        "min": 26,
+        "max": 130,
+        "median": 82,
+        "mean": 80,
+        "count": 60
+      }
+    },
+    {
+      "code": "ag",
+      "name": "Agárd",
+      "water": "Velencei-tó",
+      "level": 3,
+      "change": -2,
+      "date": "2026-10-10",
+      "historical": {
+        "min": 3,
+        "max": 161,
+        "median": 128,
+        "mean": 120,
+        "count": 77
+      }
+    }
+  ]
+}

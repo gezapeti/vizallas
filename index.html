@@ -1,0 +1,12 @@
+<!doctype html><html lang=hu><head><meta name=generator content="Hugo 0.128.0"><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Vízállás – Hungarian Water Levels</title>
+<link rel=stylesheet href=/css/style.css><script src=https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js></script></head><body><header class=topbar><h1>Vízállás <span class=sub>Hungarian water levels</span></h1><p class=meta id=meta-line>loading…</p></header><main><section><h2>Today vs. the historical norm</h2><p class=hint>Each card shows today's reading against the min–median–max band recorded
+on this calendar day across every year on record — so you can see at a glance whether
+the river is running high or low for the season.</p><div id=today-cards class=cards></div></section><section><h2>One station, year by year</h2><p class=hint>Each line is a year's daily <strong>deviation from the long-run median</strong>
+for that calendar day — above the zero line ran higher than usual, below it ran lower.
+The grey band is the full historical min–max range. Toggle years below.</p><div class=controls><label>Station
+<select id=explorer-station></select>
+</label><span id=explorer-years class=year-toggles></span></div><div class=chart-wrap><canvas id=explorer-chart></canvas></div></section><section><h2>Compare stations</h2><p class=hint>Overlay the daily curve for several stations. Pick a year, or the
+long-run median (climatology) for each station.</p><div class=controls><label>Year
+<select id=compare-year></select>
+</label><span id=compare-stations class=station-toggles></span></div><div class=chart-wrap><canvas id=compare-chart></canvas></div></section></main><footer><p>Source: <a href=https://data.vizugy.hu/>OVF Központi Vízrajzi Adattár (data.vizugy.hu)</a>.
+Levels in cm relative to the gauge zero (vízmérce nullpont). Rebuilt daily.</p></footer><script src=/js/app.js></script></body></html>
